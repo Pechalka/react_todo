@@ -1,0 +1,37 @@
+
+body {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 14px;
+}
+
+
+#app {
+	margin: 0 auto;
+	width: 600px;
+	background: #ccc;
+	margin-top:50px;
+	padding: 20px;
+}
+
+
+.item {
+	font-size: 150%;
+	
+	padding: 10px 0 10px 0;
+}
+
+.item label {
+	width: 80%;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.item input[type=checkbox] {
+	margin-right: 20px;
+}
+
+
+
+button {
+	padding: 0 10px 0 10px;
+}
